@@ -24,7 +24,7 @@ Place the .py script and the three .csv files in the same directory.
 Execute: python bikeshare.py
 
 ### Files used
-bikeshare.py
+  bikeshare.py
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
